@@ -1,0 +1,611 @@
+id,archivo,tipo,fuente,texto_ocr,modelo_ocr,texto_referencia,titulo,descripcion,licencia,autor,fuente_url,n_lineas,n_caracteres_ocr,confianza_mediana,pct_lineas_dudosas,segundos_ocr,imagen_ejemplo
+doc_001,datos/raw/documentos/doc_001.jpg,impreso,Wikimedia Commons (verificado en Sesión 10) · CC BY 4.0,"SERESUELVE:
+.- Artículo 1°- RECONOCER como lema ganador en el Concurso Público
+Creación del Lema para el Distrito de Mache: ""MACHE, AMISTAD BELLEZA Y
+CULTURA"" del Autor DR. GUILLERMO IBAÑEZ CABRERA, como Lema
+Oficial del Distrito de Mache, con Resolución de Alcaldía N° o18-2o16 MDM.
+.- Articulo 2°- RECONOCER como símbolo Oficial del Distrito de Mache, EL
+ESCUDO que en concurso público ha obtenido el primer puesto y cuyo anexo
+en diseño forma parte de la presente resolución; propuesta presentada por la
+Señorita DAYANI YOSELYN LUJAN TORRES y ratificado como símbolo g
+anador mediante Resolución de Alcaldía N° o9o-2o16 MDM.
+.- Artículo 3°- RECONOCER como símbolo Oficial del Distrito de Mache, LA
+BANDERA que en concurso público ha obtenido el primer puesto y cuyo anexo
+en diseño forma parte de la presente resolución; propuesta presentada por la
+Señorita YRIA [PERSONA_8] BLAS REBAZA y ratificado como símbolo
+ganador mediante Resolución de Alcaldía N° o91-2o16 MDM.
+.- Artículo 4°- OFICIALIZAR Y PRESENTAR en ceremonia pública el día 07 de
+marzo 2o16 los símbolos que identificaran nuestro distrito, en la plaza de
+armas de Mache con ceremonia especial.
+.- Articulo 5. PRECISAR
+- Inciso oI: RECONOCER al SR. RAMIRO IBAÑEZ CASTRO como autor y
+com positor del HIMNO A MACHE.
+-Inciso o2: OFICIALIZAR, las sagradas notas musicales compuestas por DON
+RAMIRO IBAÑEZ CASTRO las mismas que se venían entonando desde el año
+2oo8 fecha de reconocimiento oficial por la MDM.
+.- Artículo 6°- DISPONER las acciones administrativas legales que correspon-
+dan para el registro y formalización de los símbolos para Mache.
+FIRMADO: por el Alcalde WILDER BAROT CASTILLO ZAVALETA con
+Resolución de Alcaldía N° 092-2016 de fecha 04 de Marzo 2016.",PaddleOCR 3.7.0 PP-OCRv6 · motor transformers (PyTorch) · cpu · sin preprocesamiento extra,,Acta de Creación de los Símbolos para el Distrito de Mache.jpg,"Resolución de alcaldía de Mache (La Libertad), 2016",CC BY 4.0,Helder Zavaleta Verde,https://commons.wikimedia.org/wiki/File:Acta_de_Creaci%C3%B3n_de_los_S%C3%ADmbolos_para_el_Distrito_de_Mache.jpg,28,1733,0.993,0.0,148.71,datos/ejemplos/img/doc_001.jpg
+doc_002,datos/raw/documentos/doc_002.jpg,impreso,Wikimedia Commons (verificado en Sesión 10) · Public domain,"Eol. 25.
+MERCURIO PERUANO
+DEL DIA 13. DE ENERO DE 1791.
+の
+EXAMEN HISTÓRICO DE LAS DIVERSIONES PÚBLICAS
+de las Naciones.
+ fnesen mas prontos en dar razon do si kay ó no quíen te-
+ciba los envites.
+TO PUNCH. v. a. To bore or per-
+Las corzidas de Toros tienen sn plaza y ai tiempo de-
+forate by driving a fharp inftru-
+ment. Punzar, ú horadar con
+terminado. Los toreros quando no pueden níostrar valentía, nos
+punzon.
+admiran con sw ligerese. El coscurgo suele ser pacífico y numie-
+PÚNCH. s. A pointed inftrument.
+zoso. Sole es mala la costumbre de desjarretar el toro que no
+which, driven by a blow, per-
+forates bodies. Punzon, instru-
+embiste: se debiera idear otro modo de matarlo, sía valerse de
+mento de hierro que remata en
+este qwe tiene mn no se qué do desayrado y traicionero. Los
+punta, y sirve para horadar.
+chisgaravises gue, andan enredando los tablados pregonando aguz
+punc. A liquor made by mixing
+de berros veaden baxo este nombre un Puncbe tan recargadó de
+fpirit with water, fugar and the
+juice of lemons or oranges. Pon-
+aguardiente, que seria funesto cn qualquiera otro Pueblo mêños
+che, bebida que se hace de aguar-
+moderado que este. Ya se puede concurrir á los Toros con un
+diente templada con agua, limon
+vestide estrenado: la meda no os tan cruel en esta parte, como
+y azúcar.
+punc. The buffoon or harlequin of
+lo era ahora seis ú ocho años.
+the 'puppet-fhow. Arleguin 6
+Los Cafées no han servido en Líma mas que pira al-
+bufon de los volatines.
+morzar. ocupar la- siesta: las discnsiones literarias empiezan ya
+pusci. (Joc.) A fhort fat fellow.
+á tener lugar en ellos. El Díario Erudito y el Mercurio subóí
+Cachigordite, hombre pequeño y
+gordo.",PaddleOCR 3.7.0 PP-OCRv6 · motor transformers (PyTorch) · cpu · sin preprocesamiento extra,,Pisco-punch-mercurio-peruano-1791.jpg,"Mercurio Peruano, 1791 (imprenta colonial)",Public domain,El Mercurio Peruano,https://commons.wikimedia.org/wiki/File:Pisco-punch-mercurio-peruano-1791.jpg,44,1669,0.97,6.8181818181818175,123.02,datos/ejemplos/img/doc_002.jpg
+doc_003,datos/raw/documentos/doc_003.jpg,impreso,Wikimedia Commons (verificado en Sesión 10) · CC0,"A3967812Q
+BANCOCENTRAL
+DERESERVADELPERU
+I
+DIEZ INTIS
+26 DE JUNIO DE 1987
+ifeuei
+10
+DIRECTOR
+PAESIDENTE
+GERENTE GENERAL
+A39678120",PaddleOCR 3.7.0 PP-OCRv6 · motor transformers (PyTorch) · cpu · sin preprocesamiento extra,"BANCO CENTRAL DE RESERVA DEL PERU
+DIEZ INTIS
+26 DE JUNIO DE 1987 
+A3967812Q",10 Intis 1987(front).jpg,"Billete de 10 intis, 1987",CC0,ByRussia45,https://commons.wikimedia.org/wiki/File:10_Intis_1987(front).jpg,12,128,0.9795,25.0,25.89,datos/ejemplos/img/doc_003.jpg
+doc_004,datos/raw/documentos/doc_004.jpg,impreso,Wikimedia Commons (verificado en Sesión 10) · CC0,"BANCO CENTRALDERESERVAdI PERÚ
+100
+B4496556D
+100
+26 DE JUNIO DE 1987
+0
+1-A2
+ feua
+PRESIDENTE
+DTRECTOR
+GERENTEGENERAL
+100
+CIENINTIS
+RAMONCASTILLA
+B4496556D",PaddleOCR 3.7.0 PP-OCRv6 · motor transformers (PyTorch) · cpu · sin preprocesamiento extra,,100 Intis 1987(Front).jpg,"Billete de 100 intis, 1987",CC0,ByRussia45,https://commons.wikimedia.org/wiki/File:100_Intis_1987(Front).jpg,15,153,0.998,26.666666666666668,29.38,datos/ejemplos/img/doc_004.jpg
+doc_005,datos/raw/documentos/doc_005.jpg,impreso,Wikimedia Commons (verificado en Sesión 10) · CC0,"BANCO CENTRAL DERESERVADELPERU
+B6075029N
+MILINTS
+Whifja
+S0
+28 DE JUNIO DE 1988
+DIRECTOR
+PRESIDENTE
+GERENTE GENERAL
+B6075029N",PaddleOCR 3.7.0 PP-OCRv6 · motor transformers (PyTorch) · cpu · sin preprocesamiento extra,"BANCO CENTRAL DE RESERVA DEL PERU
+MIL INTIS
+28 DE JUNIO DE 1988 
+B6075029N",1000 Intis 1988(Front).jpg,"Billete de 1000 intis, 1988",CC0,ByRussia45,https://commons.wikimedia.org/wiki/File:1000_Intis_1988(Front).jpg,10,124,0.9975,20.0,25.84,datos/ejemplos/img/doc_005.jpg
+doc_006,datos/raw/documentos/doc_006.jpg,impreso,Wikimedia Commons (verificado en Sesión 10) · CC0,"BANCO CENTRAL DE RESERVA DEL PERU
+A9474846T
+DIEZMIL
+INTIS
+Qjy
+85
+28 DE JUNIO DE 1988
+DIRECTOR
+PRESIDENTE
+GERENTE GENERAL
+A9474846T",PaddleOCR 3.7.0 PP-OCRv6 · motor transformers (PyTorch) · cpu · sin preprocesamiento extra,"BANCO CENTRAL DE RESERVA DEL PERU
+DIEZ MIL INTIS
+28 DE JUNIO DE 1988 
+A9474846T",10000 Intis 1988(Front).jpg,"Billete de 10 000 intis, 1988",CC0,ByRussia45,https://commons.wikimedia.org/wiki/File:10000_Intis_1988(Front).jpg,11,130,0.998,9.090909090909092,28.53,datos/ejemplos/img/doc_006.jpg
+doc_007,datos/raw/documentos/doc_007.jpg,impreso,Wikimedia Commons (verificado en Sesión 10) · CC0,"BANCO CENTRAL DE RESERUADELPERU
+500000
+A4962929H
+S
+QUINIENTOS
+MILINTIS
+RICARDOPALMA
+ae
+85
+21 DE DICIEMBRE DE 1988
+DIRECTOR
+PRESIDENTE
+GERENTE GENERAL
+A4962929H",PaddleOCR 3.7.0 PP-OCRv6 · motor transformers (PyTorch) · cpu · sin preprocesamiento extra,"BANCO CENTRAL DE RESERVA DEL PERU
+QUINIENTOS MIL INTIS
+21 DE DICIEMBRE DE 1988 
+A4962929H",500000 Intis 1988(Front).jpg,"Billete de 500 000 intis, 1988",CC0,ByRussia45,https://commons.wikimedia.org/wiki/File:500000_Intis_1988(Front).jpg,14,159,1.0,14.285714285714285,32.03,datos/ejemplos/img/doc_007.jpg
+doc_008,datos/raw/documentos/doc_008.jpg,impreso,Wikimedia Commons (verificado en Sesión 10) · CC0,"BANCO CENTRAL DE RESERVA DEL PERU
+A3974006C
+CINCO
+MILLONES
+DEINTIS
+5 DE ENERO DE 1990
+Punta
+S000000
+S0
+DIRECTOR
+PRESIDENTE
+GERENTE GENERAL
+A3974006C",PaddleOCR 3.7.0 PP-OCRv6 · motor transformers (PyTorch) · cpu · sin preprocesamiento extra,,5000000 Intis 1990(Front).jpg,"Billete de 5 000 000 intis, 1990",CC0,ByRussia45,https://commons.wikimedia.org/wiki/File:5000000_Intis_1990(Front).jpg,13,148,0.998,23.076923076923077,28.96,datos/ejemplos/img/doc_008.jpg
+doc_010,datos/raw/documentos/doc_010.jpg,foto,Wikimedia Commons (verificado en Sesión 10) · CC BY 3.0,"Baby Boy
+BARRIO
+CHINO
+GAS HELIO
+CALLE
+CAPON
+立",PaddleOCR 3.7.0 PP-OCRv6 · motor transformers (PyTorch) · cpu · sin preprocesamiento extra,,Placa Calle Capon.jpg,"Placa de la calle Capón, Barrio Chino de Lima (foto en la calle)",CC BY 3.0,Miguel Angel Chong,https://commons.wikimedia.org/wiki/File:Placa_Calle_Capon.jpg,7,45,1.0,14.285714285714285,26.87,datos/ejemplos/img/doc_010.jpg
+doc_012,datos/raw/documentos/doc_012.jpg,foto,Wikimedia Commons (verificado en Sesión 10) · CC BY-SA 2.0,"HNUT
+cesde Argent
+CLIVER
+14
+ANITA
+YSUGRUPO
+CORALI
+DINA
+FEB
+CLIVER
+SANTIVANEZ
+L
+ANITA
+CANTO AL
+8PM
+YSUGRUPO
+CHI
+AD FELIZIOIA DEL AN DR YLA AMISTAD
+PAUCAR
+El Padrino
+CON LOS MONSTRU
+DINA
+SANTIVAÑEZ
+eventos
+EX
+SOSIMO
+PRESENTA
+JOSE MARIA
+7
+PAUCAR
+CHINA
+ACRAMENTO
+ENY
+CACION
+SOSIMO
+MARIA
+Victor
+ACRAMENTO
+EMACE
+CE
+PALOMINO
+Victol
+LIZETHMAY
+Rosita
+PALOMIN
+MAYCOL
+SALAZAR
+HLULLVCS
+deEspinar
+frestaln
+AR
+EAL
+DEAMERICA
+16
+CRUCERO
+Lagrimas
+DEIAMOR
+CLIVER
+xAmor
+CLIVER
+PDROSnCARLOSS.J.L.
+Sagrdo
+GRUPO
+14
+FELIZIDIADELAMOR
+Aoua
+CYRALI
+S
+Av
+y ou Grupo
+CYRALI
+y su Grupo
+UEFE
+CANTO AL AMOR YA LA AMI
+El Padrino
+COLISEO INTER
+CON LOS MONSTRUOS DEL FOLKLORE Y LA CUMBIA
+EL PADRINO
+eventos
+JUEEM
+eilos
+Marina
+PRESENTA
+EXCLUSIVOS
+TODA
+LA NOCHE
+CHISTAL
+EL PADRINO
+EXTos
+Rasita
+2
+839+3081/[TELEFONO]
+9bana
+oriciclo
+CRISTAL
+Espinar
+米",PaddleOCR 3.7.0 PP-OCRv6 · motor transformers (PyTorch) · cpu · sin preprocesamiento extra,"14
+FIESTA ANIVERSARIO
+FELIZ DIA DE LA AMISTAD
+JOSE MARIA Y SU GRUPO CHACALON
+MORAL Y SANGRE
+CLIVER Y SU GRUPO CORALI
+DINA PAUCAR
+ANITA SANTIVAÑEZ
+SOSIMO SACRAMENTO
+CHINA MARIA
+VICTOR PALOMINO
+ENLACE
+LIZETH MAYCOL
+DE AMERICA
+SAB. 16
+CRUCERO DEL AMOR
+PROD. Sr. CARLOS SAL
+FELIZ DIA DEL AMOR
+Agua Marina
+GRUPO Sagrado
+Lagrimas X Amor
+El Padrino CANTO AL AMOR
+eventos CON LOS MONSTRUOS
+PRESENTA
+Rosita de Espinar
+Fresialinda
+CLIVER Y SU GRUPO CORALI
+COLISEO INTER
+JUE. FEB. 8PM
+EL PADRINO
+El Padrino CANTO AL AMOR Y A LA AMI
+eventos CON LOS MONSTRUOS DEL FOLKLORE Y LA CUMBIA
+PRESENTA
+Rosita de Espinar
+EXCLUSIVOS TODA LA NOCHE
+Yovana
+Floricielo
+XTROS
+CRISTAL",Carteles chicha.jpg,Carteles chicha en Lima (foto en la calle),CC BY-SA 2.0,"Lucía Calderon Portugal from Lima, Perú",https://commons.wikimedia.org/wiki/File:Carteles_chicha.jpg,97,811,0.988,16.49484536082474,112.63,datos/ejemplos/img/doc_012.jpg
+doc_013,datos/raw/documentos/doc_013.jpg,manuscrito,Wikimedia Commons (verificado en Sesión 10) · Public domain,"69
+De  iein a oeie de mo a
+juian-dalliy
+eran.Hanerte
+Gunn tu
+dehagidf
+MCosea Regaalhing
+Fr. Gono
+oi Werinee Roin
+So
+aili 
+Roo!t Luwa Hiam ha
+Anan.Cachi
+And.s
+Tigh titains
+DnphrlAfida
+7
+Tionc Sa
+Eaan ou Oillai
+C
+9
+Zrnantararcang
+nicolasEaba
+2DaagstCosoriioiray
+VomardKnde
+Anrma
+yla Chica
+a
+AD
+mo
+cowaaa
+Man Agotia
+A
+JomayD. 8ally,
+Dela Bores
+A
+Samile Pegara
+R1ma
+GavinE
+Nisenre Barice 2
+ComeOxlian
+'frul Snri
+Y
+Man.ihndaeuC
+C
+y Ealumienter",PaddleOCR 3.7.0 PP-OCRv6 · motor transformers (PyTorch) · cpu · sin preprocesamiento extra,,Acta de Independencia Peru.jpg,"Acta de la Independencia del Perú, 1821",Public domain,Manuel Perez de Tudela,https://commons.wikimedia.org/wiki/File:Acta_de_Independencia_Peru.jpg,46,438,0.599,95.65217391304348,60.78,datos/ejemplos/img/doc_013.jpg
+doc_014,datos/raw/documentos/doc_014.png,manuscrito,Wikimedia Commons (verificado en Sesión 10) · Public domain,"Agradexco mny sineeromeals
+Ta dina atonida d mi joven a-
+ming Iis Untomin Eginiguren al
+infinits gut, amanch b acd peroitle, favo-
+roxia con on oprcita slite aest
+Merafhores, 2hyde Unbibre de 1912.
+TaddauAnuunDRdPalma:
+Aamnceaeaaecn d
+Luis Antonio Eguiguren al obsequiarme dos folleti tos cuya lectura
+haréxmamnemréueuaoebl
+favufcds ualudo""
+Ricardo Palma
+Miraflores, 24 de Octubre de 1912.",PaddleOCR 3.7.0 PP-OCRv6 · motor transformers (PyTorch) · cpu · sin preprocesamiento extra,"Agradezco muy sinceramente la fina atención de mi joven amigo Luis Antonio Eguiguren al obsequiarme los dos folletitos cuya lectura haré próximamente, y le estimaré infinito que, cuando sea posible, favorezca con su ofrecida visita a este su valetud inario amigo.
+
+Ricardo Palma
+
+Miraflores, 24 de Octubre de 1912.
+
+Tarjeta dirigida a Luis Antonio Eguiguren por Don Ricardo Palma:
+
+""Agradezco muy sinceramente la fina atención de mi joven amigo Luis Antonio Eguiguren al obsequiarme dos folletitos cuya lectura haré próximamente, y le estimaré infinito que, cuando sea posible, favorezca con su ofrecida visita a éste su valetud inario amigo""
+
+Ricardo Palma
+
+Miraflores, 24 de Octubre de 1912.",Tarjeta de Ricardo Palma a Luis Antonio Eguiguren Escudero 24 octubre 1912.png,"Tarjeta manuscrita de Ricardo Palma, 1912",Public domain,Leguicall,https://commons.wikimedia.org/wiki/File:Tarjeta_de_Ricardo_Palma_a_Luis_Antonio_Eguiguren_Escudero_24_octubre_1912.png,13,389,0.773,76.92307692307693,48.07,datos/ejemplos/img/doc_014.jpg
+doc_015,datos/raw/documentos/doc_015.jpg,manuscrito,Wikimedia Commons (verificado en Sesión 10) · Public domain,"N 8219
+Teléfono No.3
+PERUVIAN TELEPHONE COMPANY.
+Lima, Pele 2de 189
+Contrata Ko. J0F.
+REC1B1 da de Sante Ris
+ima
+Agirre
+la suma de Nor enda a
+Soles Plata
+en13 de Jeileo 1892
+CLORMINE
+Soles
+Plate95
+14.5
+pree de faeta da dervicis
+145.",PaddleOCR 3.7.0 PP-OCRv6 · motor transformers (PyTorch) · cpu · sin preprocesamiento extra,,Peruvian Telephone Company receipt Lima 1895.JPG,"Recibo de la Peruvian Telephone Company llenado a mano, 1895",Public domain,Peruvian Telephone Company,https://commons.wikimedia.org/wiki/File:Peruvian_Telephone_Company_receipt_Lima_1895.JPG,17,232,0.841,70.58823529411765,22.16,datos/ejemplos/img/doc_015.jpg
+doc_016,datos/raw/documentos/doc_016.jpg,manuscrito,Wikimedia Commons (verificado en Sesión 10) · CC BY-SA 3.0,"ENTRADAS
+SEGUNDOS
+Postres
+Gnocchi
+TAcuTacy+
+*Strudelde
+Cevicheclepsdo
+Lomosaltado
+manzangopina
+*Rekimpagos
+Tmonesparragos*Pscdoala
+*Piononos
+menier
+Tiraditodepsdo
+*Fettuccinit
+* Conitosdle mangar
+reecon
+Champinones
+Langostinos
+#Ravidies/salsa
+de nueces y AsaDo
+www.levaggirestaurant.com",PaddleOCR 3.7.0 PP-OCRv6 · motor transformers (PyTorch) · cpu · sin preprocesamiento extra,,Menu Levaggi 09052010.jpg,"Pizarra de menú escrita a mano con tiza, Lince, 2010",CC BY-SA 3.0,Dtarazona,https://commons.wikimedia.org/wiki/File:Menu_Levaggi_09052010.jpg,22,286,0.9515,36.36363636363637,39.17,datos/ejemplos/img/doc_016.jpg
+doc_017,datos/raw/documentos/doc_017.jpg,foto,Wikimedia Commons (búsqueda API) · CC BY-SA 4.0,"AQUI
+Do ANTONIO MIRO QUESADA
+Y SU ESPOSA
+Do MARIA LAOS DE MIRO QUESADA
+FUERON SACRIFICADOS
+EL 15 DE MAYO DE 1935
+LA CIUDAD DE LIMA
+LES RINDE EL HOMENAJE
+DE SU RÉCUERDO
+MAYO 15 DE 1950
+PUERTA DE
+ESCAPE",PaddleOCR 3.7.0 PP-OCRv6 · motor transformers (PyTorch) · cpu · sin preprocesamiento extra,"AQUI
+
+DON ANTONIO MIRO QUESADA
+Y SU ESPOSA
+DOÑA MARIA LAOS DE MIRO QUESADA
+
+FUERON SACRIFICADOS
+EL 15 DE MAYO DE 1935
+
+LA CIUDAD DE LIMA
+LES RINDE EL HOMENAJE
+DE SU RECUERDO
+
+MAYO 15 DE 1950",Placa conmemorativa del Teatro Colón en Lima.jpg,Búsqueda Commons: «placa conmemorativa Lima»,CC BY-SA 4.0,AlejandroFC,https://commons.wikimedia.org/wiki/File:Placa_conmemorativa_del_Teatro_Col%C3%B3n_en_Lima.jpg,12,200,0.992,0.0,34.44,datos/ejemplos/img/doc_017.jpg
+doc_019,datos/raw/documentos/doc_019.jpg,foto,Wikimedia Commons (búsqueda API) · CC BY-SA 4.0,"La CIVDAD DE LIVA
+AL SEVILLANO
+FRAY
+DIEGO DE
+HOJEDAOP
+(1570 - 1615)
+AVTOR DEL POEMA EPICO
+RELIGIOSO-<«<LACRISTIADA»
+EPITOME DE LA LITERATVRA
+VIRREINAL PERVANA.
+MMXXF",PaddleOCR 3.7.0 PP-OCRv6 · motor transformers (PyTorch) · cpu · sin preprocesamiento extra,"A CVDAD DE LIMA
+AL SEVILLANO
+
+FRAY
+DIEGO DE
+HOJEDA OP
+
+(1570 - 1615)
+
+AUTOR DEL POEMA ÉPICO
+RELIGIOSO «LA CRISTIADA»
+EPÍTOME DE LA LITERATURA
+VIRREINAL PERUANA.
+
+MMXXXI",Pasaje Acisclo Villarán - Placa conmemorativa.jpg,Búsqueda Commons: «placa conmemorativa Lima»,CC BY-SA 4.0,AlejandroFC,https://commons.wikimedia.org/wiki/File:Pasaje_Acisclo_Villar%C3%A1n_-_Placa_conmemorativa.jpg,11,165,0.963,0.0,32.95,datos/ejemplos/img/doc_019.jpg
+doc_020,datos/raw/documentos/doc_020.jpg,foto,Wikimedia Commons (búsqueda API) · CC BY-SA 4.0,"FEDERIC ELGVERA
+1860-1928
+LERALG/UDRYDPDM
+TIC.PRESTO-GRANDVERU
+COALPERV:Y.DVRANE
+OCHPANO.OMO-ALCALD.
+EMPRENDP-AMODRNZA
+CON-D-EAA-CNDAD
+ELMVNOPOD-LMA
+RIND ESE-HOMENAE
+DGRATTNDAANEMPRA
+ENER0-D-1935.",PaddleOCR 3.7.0 PP-OCRv6 · motor transformers (PyTorch) · cpu · sin preprocesamiento extra,,"Placa de la Casa Federico Elguera, Calle La Virreyna, Lima 2.jpg",Búsqueda Commons: «placa conmemorativa Lima»,CC BY-SA 4.0,AlejandroFC,"https://commons.wikimedia.org/wiki/File:Placa_de_la_Casa_Federico_Elguera,_Calle_La_Virreyna,_Lima_2.jpg",12,196,0.908,41.66666666666667,38.93,datos/ejemplos/img/doc_020.jpg
+doc_021,datos/raw/documentos/doc_021.jpg,foto,Wikimedia Commons (búsqueda API) · CC BY-SA 4.0,"AZ 1956-OS MAGYAR FORRADALOM ÉS SZABADSÁGHARC EMLÉKÉRE
+CONMEMORANDO LA REVOLUCIÓN Y LUCHA POR
+LA INDEPENDENCIA DE HUNGRÍA DE 1956
+A perui küldöttség - a perui Kormány és a perui nép nevében - kifejezi mély megrendülését
+és együttérzését a magyar nemzetnek az őt ért megpróbáltatásért.""
+""La delegación del Perú - a nombre del Gobierno y del pueblo peruanos - expresa que seguimos con
+profunda emoción y simpatia la tremenda prueba a que está sometida la nación húngara.""
+Victor Andrés Belaúnde nagykövet
+Embajador Victor Andrés Belaúnde
+Ezek voltak Peru Egyesült Nemzetek Szervezete előtti állandó képviselőjének elsó
+szavai az ENSZ Biztonsági Tanácsának a magyarországi helyzet megvitatására
+Primeras palabras pronunciadas por el Representante Permanente del Perú ante la
+összehívott 1956. október 28-i rendkívüli ülésén. A magyar nép, szabadságáért
+Organización de las Naciones Unidas en la sesión extraordinaria del Consejo de
+Seguridad de la ONU, convocada el 28 de octubre de 1956 para discutir la situación
+és függetlenségéért küzdve, 1956. október 23-án fellázadt a kommunizmus és a
+en Hungría. En la lucha por su libertad e independencia, el pueblo hungaró se levantó
+szovjet megszállás ellen.
+el 23 de octubre 1956 contra el comunismo y la ocupación Soviética.
+Ezt az emléktáblát Magyarország Limai Nagykövetsége a forradalom 62.
+la Embajada de Hungria en Lima coloca esta placa en ocasión del 62º aniversario
+évfordulója alkalmából, a hősök és áldozatok emlékére állitja.
+de la Revolución conmemorando a los héroes y víctimas.",PaddleOCR 3.7.0 PP-OCRv6 · motor transformers (PyTorch) · cpu · sin preprocesamiento extra,,"Embassy of Hungary, Lima 3.jpg",Búsqueda Commons: «placa conmemorativa Lima»,CC BY-SA 4.0,Privado (imagen donada al publicador),"https://commons.wikimedia.org/wiki/File:Embassy_of_Hungary,_Lima_3.jpg",23,1535,0.994,0.0,100.26,datos/ejemplos/img/doc_021.jpg
+doc_022,datos/raw/documentos/doc_022.jpg,foto,Wikimedia Commons (búsqueda API) · CC BY-SA 4.0,"Este teatro fue reformado y mejorado a iniciativa de la
+Colectividad Española en el Perú, con la colaboración de
+la Embajada de España en Bima y con la financiación del
+Ministerio de Irabajo e Inmigración.
+Bima, Agosto de 2010",PaddleOCR 3.7.0 PP-OCRv6 · motor transformers (PyTorch) · cpu · sin preprocesamiento extra,,"Centro Español, Lima 01.jpg",Búsqueda Commons: «placa conmemorativa Lima»,CC BY-SA 4.0,AlejandroFC,"https://commons.wikimedia.org/wiki/File:Centro_Espa%C3%B1ol,_Lima_01.jpg",5,226,0.969,0.0,27.72,datos/ejemplos/img/doc_022.jpg
+doc_024,datos/raw/documentos/doc_024.jpg,foto,Wikimedia Commons (búsqueda API) · CC BY-SA 3.0,"RECUERDO DE LA SEGUNDA VISITA
+PASTORAL DE SU SANTIDAD EL PAPA
+JUAN PABLO II CON OCASION DE LA
+CLAUSURA DEL V'CONGRESO
+EUCARISTICO MARIANO DE LOS PAISES
+BOLIVARIANOS Y DEL MENSAJE
+DIRIGIDO AL CLERO DE LIMA,DEL PERU
+Y DE LOS PAISES BOLIVARIANOS
+REUNIDO EN ESTA BASILICA CATEDRAL
+PRIMADA EL 14 DE MAYO DE 1988
+EL CABILDO METROROLITANO
+DELIMA",PaddleOCR 3.7.0 PP-OCRv6 · motor transformers (PyTorch) · cpu · sin preprocesamiento extra,,LimaPlacaCatedral1988.JPG,Búsqueda Commons: «placa conmemorativa Lima»,CC BY-SA 3.0,Miguel Angel Chong,https://commons.wikimedia.org/wiki/File:LimaPlacaCatedral1988.JPG,12,338,0.9964999999999999,0.0,41.34,datos/ejemplos/img/doc_024.jpg
+doc_025,datos/raw/documentos/doc_025.jpg,manuscrito,Wikimedia Commons (búsqueda API) · CC0,"Kelle dePirco
+N I dela Soleded",PaddleOCR 3.7.0 PP-OCRv6 · motor transformers (PyTorch) · cpu · sin preprocesamiento extra,,Cofradía de Nuestra Señora de la Soledad en la Villa de Pisco.jpg,Búsqueda Commons: «manuscrito colonial Lima»,CC0,Vmpena100,https://commons.wikimedia.org/wiki/File:Cofrad%C3%ADa_de_Nuestra_Se%C3%B1ora_de_la_Soledad_en_la_Villa_de_Pisco.jpg,2,30,0.6845,100.0,4.23,datos/ejemplos/img/doc_025.jpg
+doc_026,datos/raw/documentos/doc_026.jpg,manuscrito,Wikimedia Commons (búsqueda API) · Public domain,"NUH Eneto Sante Yota Pamguat o San blemoente d Poe
+cajute  lo Prum e Chineha d la Republea dlPoni,
+Juan
+nle cuad Slomtred md rchentes nrentaute
+a/ cun propu loutiortmmenk a pan Rat fhemacica
+Porvas.
+slvoon'ts's treca monso steest coe Lujs lpotirmo olel Sonve
+Gillrna Perasede lu n Suane Baneasa poras,
+pac S. melon sel DrE
+mlaepoine a Ngnx Cds Poras, asproentdeda
+pa l Dito Ginre Sueshsa De l euas iyf
+El suscrito ccrtifica la
+Foreg brgal
+EQ
+autunticidud do la firoa de
+ln prusento fotostutica do
+Bautiomo.
+PISC
+risco, 31 de eñero do 992
+Alfons Larl NJa CM",PaddleOCR 3.7.0 PP-OCRv6 · motor transformers (PyTorch) · cpu · sin preprocesamiento extra,"N.º 21/11
+
+En esta santa iglesia parroquiana de don Clemente de Pisco
+de la República del Perú.
+
+El suscrito certifica la autenticidad de la firma de la presente fotostática de Santiago.
+
+Pisco, 31 de enero de 1992.",Asiento de la partida de bautismo de Raúl Porras Barrenechea.jpg,Búsqueda Commons: «partida de bautismo Perú»,Public domain,Partida N.° 2070. Asiento de la partida de bautismo de Raúl Porras Barrenechea. «En Paredes 2004:113»,https://commons.wikimedia.org/wiki/File:Asiento_de_la_partida_de_bautismo_de_Ra%C3%BAl_Porras_Barrenechea.jpg,20,556,0.5805,75.0,44.47,datos/ejemplos/img/doc_026.jpg
+doc_027,datos/raw/documentos/doc_027.jpg,manuscrito,Wikimedia Commons (búsqueda API) · CC BY-SA 4.0,"132
+D
+Cla cuda delor teyee ind Tebexo de eerients Nover
+tary dos. Lo of Lin D Sebastran Sexreno, exlineneia Lanogues
+2X
+Excorrire puse obeo, y Chsvma, a Ailbexie Zrelis, de edad e
+Seas meres quince dias a quen en caso da nesesidad le Echo el
+tyna el t, a Curebis hamires heligioso werond de la smerced.
+Tifo depitnme ade Tose Olalla ymelchoza Baladxa, feve ve
+Padnino S Tuan Sionicio Foledo, Festiges Cixraco Obredo Y
+PeoeHehun,
+Sibustran Tunrcro",PaddleOCR 3.7.0 PP-OCRv6 · motor transformers (PyTorch) · cpu · sin preprocesamiento extra,,Joseolaya partida nacimiento chica.jpg,Búsqueda Commons: «partida de bautismo Perú»,CC BY-SA 4.0,Gabriela lavarello de velaochaga,https://commons.wikimedia.org/wiki/File:Joseolaya_partida_nacimiento_chica.jpg,12,446,0.7845,100.0,35.11,datos/ejemplos/img/doc_027.jpg
+doc_030,datos/raw/documentos/doc_030.jpg,manuscrito,Wikimedia Commons (búsqueda API) · CC0,"daSeoDn
+Aau
+1832.anos: me he echo Cargo do ut
+doctrina de C Sontiago de can
+De ods Cna tre. deeda
+D..JP JoMo.
+Sie Gonondela Bioo
+ iO (dr partrday de Intirao friamad
+nla Silla deSuntiogo Se-Soampa en say dicy del mm detla
+yu de mil ocht truinta y o aay. L l Cina Jonk
+Santor
+p ni Cuna propy Sii Jot S D. Sad Joie Mont!
+Solto
+Commacho, Bsepulte de abre pelly, y Cauz bap el cien
+cpo may
+po maynde anhor Insipe itea, de cdad dediry e
+Far
+ve anor, nifo I. de Pedns Iurpe,y dt Nanuuta Din-
+Raoy, Yndng. dr Vrilloguillo. Munio accibiond o
+a
+Intatila dc Santingo d Lompa, en nete diay del me de Haps
+Mania
+de mil act fainta y or amos: Y ed aura fenteot eta dort
+cpo.ment
+Sepulte de rotrepelley, y Caw's bafa en et Pant uon, elepo.
+menox de Maria de cdes de un ano, hifa Natural 2 Cat
+lina Compor, Mertisa del Pue? Y nm conftalo frams=
+thanPhodrivnordi
+Enladillaor Santianede dampn, on mueve diay de mee Mage
+Ana
+I mil ock tunita yto anos  l aua dte fat Ma
+41N
+woite o firmo
+2
+Inla Nellade Vathay de Lompa,in din dme
+de Map de mil ooh. taunta y tor ams Todintede",PaddleOCR 3.7.0 PP-OCRv6 · motor transformers (PyTorch) · cpu · sin preprocesamiento extra,,Libro de Bautismos en la Gran Villa de Lampa 1832.jpg,Búsqueda Commons: «libro parroquial Perú»,CC0,Abelchristian111,https://commons.wikimedia.org/wiki/File:Libro_de_Bautismos_en_la_Gran_Villa_de_Lampa_1832.jpg,36,1054,0.708,94.44444444444444,85.3,datos/ejemplos/img/doc_030.jpg
+doc_031,datos/raw/documentos/doc_031.jpg,manuscrito,Wikimedia Commons (búsqueda API) · CC0,"Libro de Saulismos
+que comiéan.
+En la Gran Villa de
+Lampa-
+Dih Apostol Santingn
+Desde el 2s de Fel
+mil ochocientos seler
+y uno hasta...
+Siendo Fura Ynter FlDr.
+D. Manul Castilla. y su teni
+entr. UB.s. Sallo Balma.
+And, de 189s.",PaddleOCR 3.7.0 PP-OCRv6 · motor transformers (PyTorch) · cpu · sin preprocesamiento extra,"Libro de Bautismos que comienzan en la Gran Villa de Lampa.
+
+Del Apóstol Santiago.
+
+Desde el 28 de Febrero de mil ochocientos setenta y uno hasta el
+
+Siendo Cura Inter. D. Manuel Castilla y su teniente el B. S. Pablo Balma.
+
+Año de 1871.",Libro de Bautismos en la Gran Villa de Lampa 1871.jpg,Búsqueda Commons: «libro parroquial Perú»,CC0,Abelchristian111,https://commons.wikimedia.org/wiki/File:Libro_de_Bautismos_en_la_Gran_Villa_de_Lampa_1871.jpg,12,227,0.838,66.66666666666666,31.32,datos/ejemplos/img/doc_031.jpg
