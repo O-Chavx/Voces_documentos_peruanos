@@ -1,0 +1,27 @@
+{
+  "_nota": "Configuraciones fijadas el 2026-10-25, ANTES de calcular cualquier métrica. No se modifican después de ver resultados.",
+  "semilla_muestra": 2026,
+  "semilla_auditoria": 7,
+  "muestra_documentos": {"impreso": 4, "foto": 3, "manuscrito": 3},
+  "muestra_audio": {"lectura (OpenSLR 73)": 5, "multihablante (simulada)": 1, "entrevista real (Commons)": 4},
+  "max_caracteres_ocr_para_muestra": 1500,
+  "normalizacion": "minúsculas, sin puntuación, sin marcas entre corchetes ([HABLANTE_1], [PERSONA]...), espacios simples; se conservan tildes y eñes (t2.normalizar)",
+  "ocr": {
+    "base": {"modelo": "paddleocr-base", "descripcion": "PaddleOCR 3.7 PP-OCRv6 por defecto, sin orientación ni unwarping (como la Sesión 10)"},
+    "alternativos": [
+      {"modelo": "paddleocr-mejorado", "descripcion": "PaddleOCR 3.7 con clasificación de orientación, unwarping y orientación de línea activados"},
+      {"modelo": "easyocr", "descripcion": "EasyOCR (CRAFT + CRNN), lang=es, CPU, paragraph=False"},
+      {"modelo": "tesseract", "descripcion": "Tesseract 5 LSTM, lang=spa, --psm 3 (solo si está instalado)"}
+    ]
+  },
+  "asr": {
+    "base": {"modelo": "faster-whisper-small", "descripcion": "faster-whisper small, CPU int8, beam 5, VAD Silero activado, idioma=es"},
+    "alternativos": [
+      {"modelo": "faster-whisper", "descripcion": "faster-whisper large-v3-turbo, CPU int8, beam 5, VAD activado, idioma=es"},
+      {"modelo": "qwen3-asr-0.6b", "descripcion": "Qwen3-ASR 0.6B (transformers), CPU float32, tramos del VAD de hasta 12 s, idioma=es", "respaldo": "parakeet-v3"}
+    ]
+  },
+  "regla_de_decision": "Se elige, por modalidad, el modelo con menor CER/WER agregado cuyo factor de tiempo real en CPU sea <= 1.0 (ASR) o que tarde <= 30 s por página (OCR). Empates (<1 punto porcentual): el más liviano.",
+  "llm": {"proveedor": "Google Gemini API", "modelo_preferido": "el flash más reciente disponible en la cuenta (se lista con la API)", "temperatura": 0, "salida": "JSON (response_mime_type=application/json)"},
+  "bonus_mms_quechua": false
+}

@@ -1,0 +1,19 @@
+# Datos crudos, audios originales, recortes, caché del LLM y referencias con posibles nombres reales
+datos/raw/
+
+# Entornos y claves
+entorno/.venv/
+.venv/
+.env
+
+# Pesos de modelos
+modelos/*.safetensors
+modelos/*.bin
+modelos/*.pt
+modelos/*.onnx
+modelos/checkpoint-*/
+
+# Basura de Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/

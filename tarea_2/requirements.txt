@@ -1,0 +1,5 @@
+# Solo lo necesario para la app de Streamlit (lee CSV; no carga modelos).
+# Versiones iguales a las del uv.lock del curso.
+streamlit==1.62.0
+pandas==2.3.3
+plotly==7.0.0
