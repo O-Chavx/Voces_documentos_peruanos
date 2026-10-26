@@ -2,7 +2,7 @@
 
 **Pregunta:** ¿pueden convertirse documentos escaneados y entrevistas en audio en un archivo de texto estructurado y buscable?
 
-**Dashboard público:** https://COMPLETAR.streamlit.app · **Estudiante:** Oscar Andrés Chavez Inocente (@O-Chavx)
+**Dashboard público:** https://voces-documentos.streamlit.app/ · **Estudiante:** Oscar Andrés Chavez Inocente (@O-Chavx)
 
 **Archivos principales:** [01_extraccion.ipynb](tarea_2/01_extraccion.ipynb) · [02_evaluacion.ipynb](tarea_2/02_evaluacion.ipynb) · [app.py](tarea_2/app.py) · [datos/](tarea_2/datos) · [evidencias_ia/](tarea_2/evidencias_ia) · todo el trabajo está en la carpeta [`tarea_2/`](tarea_2)
 

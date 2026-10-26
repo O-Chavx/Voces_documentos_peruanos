@@ -2,7 +2,7 @@
 
 **Pregunta:** ¿pueden convertirse documentos escaneados y entrevistas en audio en un archivo de texto estructurado y buscable?
 
-**Dashboard público:** https://COMPLETAR.streamlit.app · **Estudiante:** Oscar Andrés Chavez Inocente (@O-Chavx)
+**Dashboard público:** https://voces-documentos.streamlit.app/ · **Estudiante:** Oscar Andrés Chavez Inocente (@O-Chavx)
 
 Tarea 2 del curso Ciencia de Datos con Python (UP 2026-II). Buena parte de la memoria documental y oral del Perú no se encuentra en bases de datos, sino en resoluciones impresas, placas y carteles fotografiados en la calle, libros parroquiales manuscritos y entrevistas grabadas; es así que el presente trabajo construye un pipeline de inteligencia artificial que extrae el texto de documentos peruanos mediante OCR, transcribe entrevistas en español peruano mediante ASR, seudonimiza a las personas privadas, extrae campos estructurados con un modelo de lenguaje y publica los resultados en un dashboard de Streamlit. De esta manera, se busca evaluar no solo si el proceso es posible, sino también qué tan confiable resulta según el tipo de documento y las condiciones de grabación.
 
