@@ -1,0 +1,13 @@
+{
+ "modelo_ocr_elegido": "easyocr",
+ "cer": 0.6057,
+ "cer_base": 0.6534,
+ "modelo_asr_elegido": "faster-whisper",
+ "wer": 0.1684,
+ "wer_base": 0.2091,
+ "rtf_asr": 0.192,
+ "acuerdo_llm_humano": "17/20",
+ "pct_acuerdo": 0.85,
+ "modelo_llm": "gemini-3.5-flash-lite",
+ "fecha": "2026-10-25"
+}

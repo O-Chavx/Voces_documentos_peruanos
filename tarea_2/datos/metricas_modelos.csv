@@ -1,0 +1,7 @@
+modalidad,modelo,rol,descripcion,metrica,valor,promedio_por_archivo,segundos_por_item,rtf,n
+documentos,paddleocr-base,base,PaddleOCR 3.7.0 PP-OCRv6 · motor transformers (PyTorch) · cpu · sin preprocesamiento extra,CER,0.6533996683250415,0.6775190217731895,39.78792543000018,,10
+documentos,paddleocr-mejorado,alternativo,"PaddleOCR 3.7.0 PP-OCRv6 · motor transformers (PyTorch) · cpu · con doc_orientation_classify, doc_unwarping, textline_orientation",CER,0.6223051409618574,0.6818150737959308,32.4466954800002,,10
+documentos,easyocr,alternativo,"EasyOCR 1.7.2 (CRAFT + CRNN, lang=es, CPU)",CER,0.6057213930348259,0.6800400864416253,6.520451540000067,,10
+audio,faster-whisper-small,base,"faster-whisper small (CTranslate2, int8)",WER,0.20914214151534127,0.14987461275469868,8.605698329999722,0.10746077120571891,10
+audio,faster-whisper,alternativo,faster-whisper (Whisper turbo en CTranslate2),WER,0.16844082654978085,0.1110795142932333,15.344049560000348,0.1916036718819613,10
+audio,qwen3-asr-0.6b,alternativo,Qwen3-ASR 0.6B,WER,0.21415153412648716,0.15224797834281772,24.815690880000695,0.30987761570392924,10

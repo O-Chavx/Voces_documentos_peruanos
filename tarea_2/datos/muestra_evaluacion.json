@@ -1,0 +1,28 @@
+{
+ "fecha": "2026-10-25 14:21",
+ "documentos": [
+  "doc_003",
+  "doc_005",
+  "doc_006",
+  "doc_007",
+  "doc_012",
+  "doc_014",
+  "doc_017",
+  "doc_019",
+  "doc_026",
+  "doc_031"
+ ],
+ "audio": [
+  "clip_008",
+  "clip_010",
+  "clip_012",
+  "clip_015",
+  "clip_019",
+  "clip_020",
+  "clip_022",
+  "clip_024",
+  "clip_025",
+  "clip_030"
+ ],
+ "criterio": "ver config_evaluacion.json"
+}

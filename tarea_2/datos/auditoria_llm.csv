@@ -1,0 +1,223 @@
+id,modalidad,campos_json,ok_modalidad_tema_resumen,ok_campos_con_valor,ok_nulls,error_observado,completamente_correcta
+doc_013,documento,"{
+ ""modalidad"": ""documento"",
+ ""tipo_documento"": null,
+ ""tema"": ""Texto ilegible de origen OCR"",
+ ""resumen"": ""El texto proporcionado consiste en una serie de palabras fragmentadas y caracteres inconexos generados por un error de lectura OCR. No es posible extraer información con sentido ni determinar el propósito del documento."",
+ ""emisor"": null,
+ ""fecha"": null,
+ ""monto"": null,
+ ""lugar"": null,
+ ""legible"": false
+}",1,1,1,,1
+doc_021,documento,"{
+ ""modalidad"": ""documento"",
+ ""tipo_documento"": ""placa conmemorativa"",
+ ""tema"": ""Conmemoración de la Revolución Húngara"",
+ ""resumen"": ""La Embajada de Hungría en Lima rinde homenaje a las víctimas y héroes de la Revolución Húngara de 1956 en su 62º aniversario. En el texto se destacan las palabras del embajador peruano Víctor Andrés Belaúnde ante la ONU expresando solidaridad con Hungría."",
+ ""emisor"": ""Embajada de Hungría en Lima"",
+ ""fecha"": ""28 de octubre de 1956"",
+ ""monto"": null,
+ ""lugar"": ""Lima"",
+ ""legible"": true
+}",1,1,1,,1
+doc_020,documento,"{
+ ""modalidad"": ""documento"",
+ ""tipo_documento"": null,
+ ""tema"": ""Homenaje a Federic Elgvera"",
+ ""resumen"": ""Texto de homenaje conmemorativo dedicado a Federic Elgvera fechado en enero de 1935. El contenido presenta múltiples errores de lectura por fallas del OCR."",
+ ""emisor"": ""ELMVNOPOD-LMA"",
+ ""fecha"": ""ENER0-D-1935."",
+ ""monto"": null,
+ ""lugar"": null,
+ ""legible"": false
+}",1,1,1,,1
+doc_022,documento,"{
+ ""modalidad"": ""documento"",
+ ""tipo_documento"": null,
+ ""tema"": ""Reforma y mejora de teatro"",
+ ""resumen"": ""Se menciona la reforma y mejora de un teatro realizada por iniciativa de la Colectividad Española en el Perú, con la colaboración de la Embajada de España en Bima y el financiamiento del Ministerio de Irabajo e Inmigración."",
+ ""emisor"": null,
+ ""fecha"": ""Agosto de 2010"",
+ ""monto"": null,
+ ""lugar"": ""Bima"",
+ ""legible"": true
+}",1,1,1,,1
+doc_014,documento,"{
+ ""modalidad"": ""documento"",
+ ""tipo_documento"": null,
+ ""tema"": ""Agradecimiento por obsequio de folletos"",
+ ""resumen"": ""Ricardo Palma expresa su agradecimiento a Luis Antonio Eguiguren por haberle obsequiado dos folletos."",
+ ""emisor"": ""Ricardo Palma"",
+ ""fecha"": ""24 de Octubre de 1912"",
+ ""monto"": null,
+ ""lugar"": ""Miraflores"",
+ ""legible"": true
+}",1,1,1,,1
+doc_008,documento,"{
+ ""modalidad"": ""documento"",
+ ""tipo_documento"": null,
+ ""tema"": ""Cinco millones de intis"",
+ ""resumen"": ""Documento emitido por el Banco Central de Reserva del Perú por la cantidad de cinco millones de intis, fechado el 5 de enero de 1990."",
+ ""emisor"": ""BANCO CENTRAL DE RESERVA DEL PERU"",
+ ""fecha"": ""5 DE ENERO DE 1990"",
+ ""monto"": ""CINCO MILLONES DEINTIS"",
+ ""lugar"": null,
+ ""legible"": true
+}",1,1,1,,1
+doc_019,documento,"{
+ ""modalidad"": ""documento"",
+ ""tipo_documento"": ""placa conmemorativa"",
+ ""tema"": ""Homenaje a Fray Diego de Hojeda"",
+ ""resumen"": ""Dedicación conmemorativa de la ciudad a Fray Diego de Hojeda, reconocido como autor del poema épico religioso La Cristiada y figura de la literatura virreinal peruana."",
+ ""emisor"": ""La CIVDAD DE LIVA"",
+ ""fecha"": null,
+ ""monto"": null,
+ ""lugar"": ""CIVDAD DE LIVA"",
+ ""legible"": true
+}",1,1,1,,1
+doc_002,documento,"{
+ ""modalidad"": ""documento"",
+ ""tipo_documento"": ""periódico"",
+ ""tema"": ""Examen de las diversiones públicas"",
+ ""resumen"": ""Se describen aspectos de las corridas de toros y el consumo de bebidas en los tablados, señalando además el uso de los cafés en Lima para discusiones literarias."",
+ ""emisor"": null,
+ ""fecha"": ""13. DE ENERO DE 1791"",
+ ""monto"": null,
+ ""lugar"": ""Líma"",
+ ""legible"": true
+}",1,1,0,el emisor sí estaba (MERCURIO PERUANO) y quedó null,0
+doc_006,documento,"{
+ ""modalidad"": ""documento"",
+ ""tipo_documento"": null,
+ ""tema"": ""Diezmil intis del Banco Central"",
+ ""resumen"": ""Documento con la denominación de diezmil intis emitido por el Banco Central de Reserva del Perú con fecha 28 de junio de 1988."",
+ ""emisor"": ""BANCO CENTRAL DE RESERVA DEL PERU"",
+ ""fecha"": ""28 DE JUNIO DE 1988"",
+ ""monto"": ""DIEZMIL INTIS"",
+ ""lugar"": null,
+ ""legible"": true
+}",1,1,1,,1
+doc_015,documento,"{
+ ""modalidad"": ""documento"",
+ ""tipo_documento"": null,
+ ""tema"": ""Recibo de Peruvian Telephone Company"",
+ ""resumen"": ""Documento de pago emitido en Lima por la Peruvian Telephone Company por concepto de servicio o contrata. Incluye un registro de pago realizado en soles plata en julio de 1892."",
+ ""emisor"": ""PERUVIAN TELEPHONE COMPANY."",
+ ""fecha"": ""13 de Jeileo 1892"",
+ ""monto"": ""14.5 Soles Plata"",
+ ""lugar"": ""Lima"",
+ ""legible"": true
+}",0,1,1,"el resumen dice ""julio"", pero el texto solo dice ""Jeileo""",0
+clip_010,audio,"{
+ ""modalidad"": ""audio"",
+ ""tema"": ""Celebración de la imagen en Chuyas"",
+ ""resumen"": ""Se conversa sobre la pertenencia a Pablo y la celebración de la imagen en la sierra de Chuyas."",
+ ""numero_hablantes"": 2,
+ ""citas_clave"": [
+  ""Chuyas, ¿verdad?"",
+  ""¿Y cómo está viviendo ese momento?""
+ ],
+ ""lugar"": ""Chuyas""
+}",1,1,1,,1
+clip_018,audio,"{
+ ""modalidad"": ""audio"",
+ ""tema"": ""Defensa del Ministerio de la Mujer"",
+ ""resumen"": ""Se rechaza el intento de cambiar el nombre al Ministerio de la Mujer y se insta a los jóvenes a continuar la lucha por la patria."",
+ ""numero_hablantes"": 2,
+ ""citas_clave"": [
+  ""Viva el Ministerio de la Mujer."",
+  ""Adelante jóvenes la lucha son de ustedes.""
+ ],
+ ""lugar"": null
+}",1,1,1,,1
+clip_007,audio,"{
+ ""modalidad"": ""audio"",
+ ""tema"": ""aspectos positivos y negativos del Perú"",
+ ""resumen"": ""Se discuten la evolución y el crecimiento del Perú junto con problemáticas críticas como la corrupción y la vulneración de los derechos de las mujeres indígenas y la comunidad ECTBI."",
+ ""numero_hablantes"": 2,
+ ""citas_clave"": [
+  ""ha crecido Perú, ha crecido las ciudades"",
+  ""los aspectos negativos es que la corrupción y dentro de los gobiernos siempre ha habido demasiada corrupción""
+ ],
+ ""lugar"": null
+}",1,1,1,,1
+clip_027,audio,"{
+ ""modalidad"": ""audio"",
+ ""tema"": ""programas infantiles y viajes"",
+ ""resumen"": ""Se solicita información sobre programas de televisión para niños y se mencionan planes de viaje a España, Argentina y Veracruz."",
+ ""numero_hablantes"": null,
+ ""citas_clave"": [
+  ""¿Me puedes mandar más información sobre los hechos?"",
+  ""Quiero estar en España solo 5 días.""
+ ],
+ ""lugar"": ""España""
+}",0,1,1,el resumen inventa viajes a Argentina y Veracruz; solo se pregunta qué pasa allí,0
+clip_028,audio,"{
+ ""modalidad"": ""audio"",
+ ""tema"": ""Búsqueda de libros y regalos"",
+ ""resumen"": ""Una persona solicita ayuda para encontrar libros famosos de 2016, una tienda para comprar un regalo y varios temas cotidianos."",
+ ""numero_hablantes"": null,
+ ""citas_clave"": [
+  ""Ando buscando los libros más famosos del 2016."",
+  ""Quiero un jabón con esencia de flores.""
+ ],
+ ""lugar"": null
+}",1,1,1,,1
+clip_013,audio,"{
+ ""modalidad"": ""audio"",
+ ""tema"": ""marcha en apoyo al gobierno"",
+ ""resumen"": ""Manifestantes procedentes de Apurímac realizan una marcha en Plata San Martín para expresar su respaldo al gobierno actual y exigir el cierre del Congreso."",
+ ""numero_hablantes"": 3,
+ ""citas_clave"": [
+  ""Vengo desde el departamento de Apuríma en marcha en solidarizarnos con nuestro gobierno y pedimos que cierren el Congreso"",
+  ""El Perú es una patria grande donde todos los peruanos acá somos parte de eso.""
+ ],
+ ""lugar"": ""Plata San Martín""
+}",1,1,1,,1
+clip_009,audio,"{
+ ""modalidad"": ""audio"",
+ ""tema"": ""entrevista sobre juventud y orientación sexual"",
+ ""resumen"": ""Se entrevista a un participante sobre el mensaje para la juventud del país y el significado de una marcha para la comunidad. El entrevistado destaca la importancia de la aceptación y la libertad de amar sin restricciones en la sociedad peruana."",
+ ""numero_hablantes"": 3,
+ ""citas_clave"": [
+  ""el amar es amar, no?"",
+  ""nuestro amor no hace daño a nadie simplemente queremos eso, disfrutarlo nuestro.""
+ ],
+ ""lugar"": null
+}",1,1,1,,1
+clip_025,audio,"{
+ ""modalidad"": ""audio"",
+ ""tema"": ""Instrucciones, transporte y reserva de boletos"",
+ ""resumen"": ""Se solicita información sobre rutas de transporte, la reserva de nueve boletos para una sesión matutina y se mencionan costos de salas y características de equipos."",
+ ""numero_hablantes"": null,
+ ""citas_clave"": [
+  ""Resérvame nueve boletos, por favor, para la sesión de las 11 y 20 de la mañana."",
+  ""Las salas iMacs tienen un costo de 110 soles."",
+  ""¿Me puedes repetir la información, por favor?""
+ ],
+ ""lugar"": ""Monterrey""
+}",1,1,1,,1
+clip_015,audio,"{
+ ""modalidad"": ""audio"",
+ ""tema"": ""crítica a gobernantes y mensaje a jóvenes"",
+ ""resumen"": ""Un hablante critica a los gobernantes egoístas y aconseja a los jóvenes peruanos que luchen por el futuro del país aprovechando la tecnología para conocer la verdad."",
+ ""numero_hablantes"": 2,
+ ""citas_clave"": [
+  ""Tenemos, a lo menos, características respecto a nuestros gobernantes que son egoístas."",
+  ""Jóvenes, la patria es de ustedes y a continuar luchando para un país grande, lleno de riquezas, de minería.""
+ ],
+ ""lugar"": null
+}",1,1,1,,1
+clip_019,audio,"{
+ ""modalidad"": ""audio"",
+ ""tema"": ""Preguntas y comentarios de cultura general"",
+ ""resumen"": ""El texto contiene una serie de preguntas variadas sobre temas como cine, arte, geografía y registro de votantes, junto con algunas afirmaciones cotidianas."",
+ ""numero_hablantes"": null,
+ ""citas_clave"": [
+  ""¿Cuál es el periódico más importante?"",
+  ""¿Cómo puedo registrarme para poder votar?"",
+  ""¿Cuándo se filmó la película de Titanic?""
+ ],
+ ""lugar"": null
+}",1,1,1,,1

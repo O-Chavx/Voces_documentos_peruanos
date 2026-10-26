@@ -1,0 +1,675 @@
+id,tipo,modelo,rol,descripcion,segundos,texto_hipotesis,cer
+doc_003,impreso,paddleocr-base,base,PaddleOCR 3.7.0 PP-OCRv6 · motor transformers (PyTorch) · cpu · sin preprocesamiento extra,22.614785400000983,"A3967812Q
+BANCOCENTRAL
+DERESERVADELPERU
+I
+DIEZ INTIS
+26 DE JUNIO DE 1987
+ifeuei
+10
+DIRECTOR
+PAESIDENTE
+GERENTE GENERAL
+A39678120",0.8513513513513513
+doc_005,impreso,paddleocr-base,base,PaddleOCR 3.7.0 PP-OCRv6 · motor transformers (PyTorch) · cpu · sin preprocesamiento extra,22.89047560000108,"BANCO CENTRAL DERESERVADELPERU
+B6075029N
+MILINTS
+Whifja
+S0
+28 DE JUNIO DE 1988
+DIRECTOR
+PRESIDENTE
+GERENTE GENERAL
+B6075029N",0.8082191780821918
+doc_006,impreso,paddleocr-base,base,PaddleOCR 3.7.0 PP-OCRv6 · motor transformers (PyTorch) · cpu · sin preprocesamiento extra,25.83957830000145,"BANCO CENTRAL DE RESERVA DEL PERU
+A9474846T
+DIEZMIL
+INTIS
+Qjy
+85
+28 DE JUNIO DE 1988
+DIRECTOR
+PRESIDENTE
+GERENTE GENERAL
+A9474846T",0.6923076923076923
+doc_007,impreso,paddleocr-base,base,PaddleOCR 3.7.0 PP-OCRv6 · motor transformers (PyTorch) · cpu · sin preprocesamiento extra,29.257609799999045,"BANCO CENTRAL DE RESERUADELPERU
+500000
+A4962929H
+S
+QUINIENTOS
+MILINTIS
+RICARDOPALMA
+ae
+85
+21 DE DICIEMBRE DE 1988
+DIRECTOR
+PRESIDENTE
+GERENTE GENERAL
+A4962929H",0.8863636363636364
+doc_012,foto,paddleocr-base,base,PaddleOCR 3.7.0 PP-OCRv6 · motor transformers (PyTorch) · cpu · sin preprocesamiento extra,109.65431600000012,"HNUT
+cesde Argent
+CLIVER
+14
+ANITA
+YSUGRUPO
+CORALI
+DINA
+FEB
+CLIVER
+SANTIVANEZ
+L
+ANITA
+CANTO AL
+8PM
+YSUGRUPO
+CHI
+AD FELIZIOIA DEL AN DR YLA AMISTAD
+PAUCAR
+El Padrino
+CON LOS MONSTRU
+DINA
+SANTIVAÑEZ
+eventos
+EX
+SOSIMO
+PRESENTA
+JOSE MARIA
+7
+PAUCAR
+CHINA
+ACRAMENTO
+ENY
+CACION
+SOSIMO
+MARIA
+Victor
+ACRAMENTO
+EMACE
+CE
+PALOMINO
+Victol
+LIZETHMAY
+Rosita
+PALOMIN
+MAYCOL
+SALAZAR
+HLULLVCS
+deEspinar
+frestaln
+AR
+EAL
+DEAMERICA
+16
+CRUCERO
+Lagrimas
+DEIAMOR
+CLIVER
+xAmor
+CLIVER
+PDROSnCARLOSS.J.L.
+Sagrdo
+GRUPO
+14
+FELIZIDIADELAMOR
+Aoua
+CYRALI
+S
+Av
+y ou Grupo
+CYRALI
+y su Grupo
+UEFE
+CANTO AL AMOR YA LA AMI
+El Padrino
+COLISEO INTER
+CON LOS MONSTRUOS DEL FOLKLORE Y LA CUMBIA
+EL PADRINO
+eventos
+JUEEM
+eilos
+Marina
+PRESENTA
+EXCLUSIVOS
+TODA
+LA NOCHE
+CHISTAL
+EL PADRINO
+EXTos
+Rasita
+2
+839+3081/980299190
+9bana
+oriciclo
+CRISTAL
+Espinar
+米",0.7876923076923077
+doc_014,manuscrito,paddleocr-base,base,PaddleOCR 3.7.0 PP-OCRv6 · motor transformers (PyTorch) · cpu · sin preprocesamiento extra,47.045873799997935,"Agradexco mny sineeromeals
+Ta dina atonida d mi joven a-
+ming Iis Untomin Eginiguren al
+infinits gut, amanch b acd peroitle, favo-
+roxia con on oprcita slite aest
+Merafhores, 2hyde Unbibre de 1912.
+TaddauAnuunDRdPalma:
+Aamnceaeaaecn d
+Luis Antonio Eguiguren al obsequiarme dos folleti tos cuya lectura
+haréxmamnemréueuaoebl
+favufcds ualudo""
+Ricardo Palma
+Miraflores, 24 de Octubre de 1912.",0.5185735512630015
+doc_017,foto,paddleocr-base,base,PaddleOCR 3.7.0 PP-OCRv6 · motor transformers (PyTorch) · cpu · sin preprocesamiento extra,33.67577199999869,"AQUI
+Do ANTONIO MIRO QUESADA
+Y SU ESPOSA
+Do MARIA LAOS DE MIRO QUESADA
+FUERON SACRIFICADOS
+EL 15 DE MAYO DE 1935
+LA CIUDAD DE LIMA
+LES RINDE EL HOMENAJE
+DE SU RÉCUERDO
+MAYO 15 DE 1950
+PUERTA DE
+ESCAPE",0.11290322580645161
+doc_019,foto,paddleocr-base,base,PaddleOCR 3.7.0 PP-OCRv6 · motor transformers (PyTorch) · cpu · sin preprocesamiento extra,32.03564000000188,"La CIVDAD DE LIVA
+AL SEVILLANO
+FRAY
+DIEGO DE
+HOJEDAOP
+(1570 - 1615)
+AVTOR DEL POEMA EPICO
+RELIGIOSO-<«<LACRISTIADA»
+EPITOME DE LA LITERATVRA
+VIRREINAL PERVANA.
+MMXXF",0.07643312101910828
+doc_026,manuscrito,paddleocr-base,base,PaddleOCR 3.7.0 PP-OCRv6 · motor transformers (PyTorch) · cpu · sin preprocesamiento extra,43.506189300002006,"NUH Eneto Sante Yota Pamguat o San blemoente d Poe
+cajute  lo Prum e Chineha d la Republea dlPoni,
+Juan
+nle cuad Slomtred md rchentes nrentaute
+a/ cun propu loutiortmmenk a pan Rat fhemacica
+Porvas.
+slvoon'ts's treca monso steest coe Lujs lpotirmo olel Sonve
+Gillrna Perasede lu n Suane Baneasa poras,
+pac S. melon sel DrE
+mlaepoine a Ngnx Cds Poras, asproentdeda
+pa l Dito Ginre Sueshsa De l euas iyf
+El suscrito ccrtifica la
+Foreg brgal
+EQ
+autunticidud do la firoa de
+ln prusento fotostutica do
+Bautiomo.
+PISC
+risco, 31 de eñero do 992
+Alfons Larl NJa CM",1.8413461538461537
+doc_031,manuscrito,paddleocr-base,base,PaddleOCR 3.7.0 PP-OCRv6 · motor transformers (PyTorch) · cpu · sin preprocesamiento extra,31.359014099998603,"Libro de Saulismos
+que comiéan.
+En la Gran Villa de
+Lampa-
+Dih Apostol Santingn
+Desde el 2s de Fel
+mil ochocientos seler
+y uno hasta...
+Siendo Fura Ynter FlDr.
+D. Manul Castilla. y su teni
+entr. UB.s. Sallo Balma.
+And, de 189s.",0.2
+doc_003,impreso,paddleocr-mejorado,alternativo,"PaddleOCR 3.7.0 PP-OCRv6 · motor transformers (PyTorch) · cpu · con doc_orientation_classify, doc_unwarping, textline_orientation",19.867890000001356,"2Q
+BANCOCENTRAL
+DERESERVADELPERÚ
+RICAR ALA
+DIEZINTIS
+7
+hfevan
+DIRECTOR
+PAGSIDENTE
+GERENTE GENERAL
+A39678120",0.7567567567567568
+doc_005,impreso,paddleocr-mejorado,alternativo,"PaddleOCR 3.7.0 PP-OCRv6 · motor transformers (PyTorch) · cpu · con doc_orientation_classify, doc_unwarping, textline_orientation",18.018832900001144,"BANCO CENTRAL DE RESERVADELPERU
+MILINTIS
+855
+DIRECTOR
+PRESIDENTE
+GERENTE GENERAL
+28 DE JUNIO DE 1988
+B6075029N",0.589041095890411
+doc_006,impreso,paddleocr-mejorado,alternativo,"PaddleOCR 3.7.0 PP-OCRv6 · motor transformers (PyTorch) · cpu · con doc_orientation_classify, doc_unwarping, textline_orientation",23.60635619999812,"BANCO CENTRAL DE RESERVA DEL PERU
+DIEZMIL
+INTIS
+Qjny
+80
+28 DE JUNIO DE 1988
+1000
+DIRECTOR
+PRESIDENTE
+GERENTE GENERAL
+A9474846T",0.6410256410256411
+doc_007,impreso,paddleocr-mejorado,alternativo,"PaddleOCR 3.7.0 PP-OCRv6 · motor transformers (PyTorch) · cpu · con doc_orientation_classify, doc_unwarping, textline_orientation",25.73248590000003,"BANCO CENTRAL DE RESERVA DELPERU
+500000
+A
+QUINIENTOS
+MILINTIS
+RICARDOPALMA
+85
+21 DE DICIEMBRE DE 1988
+DIRECTOR
+PRESIDENTE
+GERENTEGENERAL
+A4962929H",0.7045454545454546
+doc_012,foto,paddleocr-mejorado,alternativo,"PaddleOCR 3.7.0 PP-OCRv6 · motor transformers (PyTorch) · cpu · con doc_orientation_classify, doc_unwarping, textline_orientation",71.4188495999988,"DINA
+SANTIVANEL
+PAUCAR
+CHI
+PAUCAR
+CHINA
+SOSIMO
+El Pad
+VA
+SOSIMO
+MAI
+MARIA
+IA
+ACRAMENTO
+eve
+ACRAMENTO
+ENY
+Victor
+PALOMINO
+OL
+LIZETHMAYCOL
+IZETHMAY
+SALAZAR
+CRUCERO
+AR
+ORTEGA
+RTEGASALA
+sit
+6
+R
+LEAL
+U
+DEAMERICA
+deEspinar
+DEIAMOR
+PDROSnCARLOSS.J.L.
+DIADELAMYR
+CLIVER
+oud
+Lagrimas
+Sagrdo
+GRUPO
+xAmor
+CLIVER
+CYRALI
+y sou Grupa
+Av
+CANTO AL AMOR YA LA AMI
+y su Grupo
+CORALI
+El Padrino
+orina
+CON LOS MONSTRUOS DEL FOLKLORE Y LA CUMBIA
+eventos
+COLISEO INTI
+PRESENTA
+EXCLUSIVOS
+JUEEEM 
+TODA
+LA NOCHE
+EL PADRINO
+R-sita
+EXTOS
+otmbana
+米
+839*3081/980299190",0.6276923076923077
+doc_014,manuscrito,paddleocr-mejorado,alternativo,"PaddleOCR 3.7.0 PP-OCRv6 · motor transformers (PyTorch) · cpu · con doc_orientation_classify, doc_unwarping, textline_orientation",40.97119139999995,"R
+Ta dina atonsiln de mi joven a-
+mingo Imio Untomio Epginiguren al
+tequiarme lo do folletior coe le
+infimito gut, emanch be ad fpeooible, favo-
+rosia con n opuida slete a'est
+Merafhores, 2hrde Orbibre de1912.
+TareddaaLuEuuDnRadPma
+Agrdecou snceameelanatecn deno
+Luis Antonio Eguiguren al obsequiarme dos folleti tos cuya lectura
+haré próximamente, y le estimaré infinito que, cuando sea posible,
+avnecdavaéuvaleudriao
+Ricardo Palma
+Miraflores, 24 de Octubre de 1912.",0.4086181277860327
+doc_017,foto,paddleocr-mejorado,alternativo,"PaddleOCR 3.7.0 PP-OCRv6 · motor transformers (PyTorch) · cpu · con doc_orientation_classify, doc_unwarping, textline_orientation",32.05536289999873,"AQUI
+Dox
+ANTONIO MIRO QUESADA
+Y SU ESPOSA
+MARIA LAOSDE MIRO QUESADA
+FUERONSACRIFICADOS
+EL 15 DE MAYO DE 193S
+LA CIUDAD DE LIMA
+LES RINDE EL HOMENAJE
+DE SU RECUERDO
+MAYO 15 DE 19SO
+PUERTA DE
+ESCAPE",0.15053763440860216
+doc_019,foto,paddleocr-mejorado,alternativo,"PaddleOCR 3.7.0 PP-OCRv6 · motor transformers (PyTorch) · cpu · con doc_orientation_classify, doc_unwarping, textline_orientation",28.0052723000008,"MMXXX
+I AR
+LICOA
+AV AADDOICO
+(570-1615)
+HOJEDA OP
+DIEGODE
+FRAY
+AL SEVILLANO
+LA CIyDaD DE LIMA",0.7070063694267515
+doc_026,manuscrito,paddleocr-mejorado,alternativo,"PaddleOCR 3.7.0 PP-OCRv6 · motor transformers (PyTorch) · cpu · con doc_orientation_classify, doc_unwarping, textline_orientation",37.86927050000304,"UN Eneto Santa Yobera anguat o San dlmonte d Pisee
+caputis ta lo prrimes d Chinehia d, la Republica del Poni,a
+«an
+wenle cuatr de Situmbred ml rcheeontes nrentagzute
+al/r cain propu lauto rtimorment a puan Reut themacice
+Porras.
+lvoin'tss trencn monso te ost co Luje bopotorno olel onve
+Gillerne Porasde lu Vne fuane Baneigasa foras,
+pacc . Meon s usprentat Ir En
+m. lnzepmosino re Tirgoix Cds Porras, aeproronTadeda
+pa lu Esite Ginroren Suecshsa De l ecas ig f
+El suscrito ccrtifica la
+Joreg beagl
+ERQ
+autunticidad do la firnn de
+ln prusento fotostutica do
+Sautiamo.
+risco,31 de enoro do 992
+Alfong ",2.0240384615384617
+doc_031,manuscrito,paddleocr-mejorado,alternativo,"PaddleOCR 3.7.0 PP-OCRv6 · motor transformers (PyTorch) · cpu · con doc_orientation_classify, doc_unwarping, textline_orientation",26.921443100000037,"Tibro de Saulismos
+que comiézan.
+En la Gran Villa de
+Lampa-
+Dch Apostoh Santinge
+Desde el asde Fel
+mil ochocientosselir
+y uno hastal....
+Siendo Cura Ynter FlDr.
+D. Manuel Castilla. y su teni
+entr. lB.s. Sallo Balma.
+And de 199s.",0.2088888888888889
+doc_003,impreso,easyocr,alternativo,"EasyOCR 1.7.2 (CRAFT + CRNN, lang=es, CPU)",4.946481800001493,"4 396781 20
+8
+BANCO CENTRAL
+DE RESERVA DEL PERÚ
+{
+8
+DIEZ INTIS
+26 DE JUNIO DE 1987
+Jeue^
+10
+Directoa
+Pabsidente
+GeRENTE GENEAAL
+A396781 2 @",0.8513513513513513
+doc_005,impreso,easyocr,alternativo,"EasyOCR 1.7.2 (CRAFT + CRNN, lang=es, CPU)",4.831541300001845,"BANGDGENTRAZDERESERUADELRERú
+|
+MI IWIS
+41
+Va
+5/
+DIRECTOR
+PRESIDENTE
+28 DE JUNIO DE 1988
+GERENTE GENERAL
+[992
+B6075029N",0.8356164383561644
+doc_006,impreso,easyocr,alternativo,"EasyOCR 1.7.2 (CRAFT + CRNN, lang=es, CPU)",4.990095199998905,"@ANcOGENTRAL@ERESER/ADEL@ERú
+;
+|
+DIEZ
+MIL
+1
+;
+INTIS
+Qju
+28 DE JUnIo DE 1928
+Ioo
+Diaectoa
+PRESIDENTE
+GerEnte GENERAL
+4 9474846T",0.7307692307692307
+doc_007,impreso,easyocr,alternativo,"EasyOCR 1.7.2 (CRAFT + CRNN, lang=es, CPU)",5.158141300002171,"BEGMRIDERSNELLERU
+;
+50000o
+A
+1
+QUINIENTOS
+88
+g
+MFL INTIIS
+1
+8/5
+21 Dediciembae De /988
+DIRECTOR
+PRESIDENTE
+GERENTE GENERAL
+4962929H
+A",0.9090909090909091
+doc_012,foto,easyocr,alternativo,"EasyOCR 1.7.2 (CRAFT + CRNN, lang=es, CPU)",8.569940900000802,"77294x
+(9|
+[shonf
+IqEER
+~1
+IWlL
+CORTH
+14
+@NA
+SEGDTPD
+Ste
+0i7Ad
+@RAL
+bANTIVAREZ
+182
+IGiDD
+@i7
+CANTO
+AL
+7aiuggiug_
+
+A
+Padrino 
+@IA
+DEIGUD
+#H
+MONSTRU
+Ses*8
+PA
+CON Los
+LiniiEZ-
+E
+eventos
+PRESENVTA
+EX
+EHSA
+80s48
+PAC
+Dy
+[ist8g
+#
+Eve
+10i5t28
+HZEEHMAY
+Wuia
+MaYE8Y
+P
+51zefg
+EE
+Cxhina
+{ês@r
+ixzgiEA
+=2
+do
+D5
+quero
+K02)
+Lagimag
+'DIPR
+Icuun
+ZAmoE
+G4UR
+En2
+222
+Saiie
+[a6ignnz
+P2EIS""
+[4nbi
+HRBLI
+14
+S
+7an Gue
+@àpil
+@MGYALAMI
+bu Gupl (
+7#e
+chntmish
+Padrino
+DEL TOLKLORE Y ZA CUMBIA
+COLISEQ IMIER
+E
+eventos
+COI
+ExcHOSIvOs
+JOEFH
+Iid
+PRESEVTA
+La NOCHe
+Uu
+EL PADRINO
+Wiia
+ofcicl
+6
+Tos
+@làBano
+anace
+Quaru
+Suhuu@v
+CRISTAE
+S9",0.7384615384615385
+doc_014,manuscrito,easyocr,alternativo,"EasyOCR 1.7.2 (CRAFT + CRNN, lang=es, CPU)",11.30240319999939,"LZaIlexe
+2eze~6
+Dm
+yie
+a & ehl
+úm/on0-
+Ji
+~
+4~ Ul
+D
+""22
+27
+Y &
+S7
+panl 46f1a 61;
+3222
+7alAnenl Z2l
+~lic6
+2z
+62e9
+CY
+4mea_
+
+9wus
+Dabksdnas
+WPes
+8
+7zs
+Ppba]les ,
+2hs_Ule4/ 112 .
+Tarjeta dirigida a Luis Antonio Eguiguren por Don Ricardo Palma:
+""Agradezco muy sinceramente la fina atención de mi joven amigo
+Luis Antonio Eguiguren al obsequiarme dos folleti tos cuya lectura
+haré próximamente, y le estimaré infinito que, cuando sea posible,
+favorezca con su
+ofrecida visita a éste su valetudinario amigo""
+Ricardo Palma
+Miraflores, 24 de Octubre de 1912",0.3476968796433878
+doc_017,foto,easyocr,alternativo,"EasyOCR 1.7.2 (CRAFT + CRNN, lang=es, CPU)",7.125195199998416,"AQUI
+ANTONIO MJRO QUESADA
+SU ESPOSA
+MARIA LAOS vz MIRO QUESADA
+FUER ON.   SACRIFICADOS
+EL 15 DE MAYO DE 1935
+LA
+CIUDAD DE LIMA
+LES RINDE ÉL HOMENAJE
+DE SU RECUERDO
+MAYO
+DE
+1950
+ESCAPE
+PUERTA DE",0.1881720430107527
+doc_019,foto,easyocr,alternativo,"EasyOCR 1.7.2 (CRAFT + CRNN, lang=es, CPU)",7.804770499998995,"CVDAS D2 EA
+4
+AL SEVILAN@
+FRAY
+DIEGC DE
+HCJEDA 0P
+{570 - -6-5)
+AV- @R
+DEL ?CEYA
+É2CC
+RELIC.ICSC <_A Cris-45.4 >>
+E2-CYE 92 LA L tEratVRa
+VRREAl ?ERVANA
+MMXX",0.3248407643312102
+doc_026,manuscrito,easyocr,alternativo,"EasyOCR 1.7.2 (CRAFT + CRNN, lang=es, CPU)",2.9085734999971464,"fntn
+/ "" v hs 'enle V,6-1 funepeurt 7oFan (lmnh c fve
+Wepu (hra nlfeus,e
+F"" |setciä' -
+vesvavev
+Úho cha d {
+4a>
+1n/s
+Fnfe
+( {mkad mt 1 rhereolef nun(] ; u/e?
+{eGr
+J""0u Mlu' ( [n' nn ccu
+""
+/*,+""wrwk:
+{Frra:.
+( 6
+6,1/7   6{ $m -
+W0n0 >1
+an "" F ""cn < $nrc-$,
+Or €""*9
+mt& le""
+""fvnhdv'
+1 %{
+00(:,/n '
+4 
+7iw.
+FW
+V
+/4
+7rna
+P
+6n
+cf.4
+92s8r!to ccrtificu
+sutunricidud
+1u {iron
+544ln
+1  prcgcrtc
+{O*ostutica
+320t2a2o,
+Inaca,
+Vruro",1.2788461538461537
+doc_031,manuscrito,easyocr,alternativo,"EasyOCR 1.7.2 (CRAFT + CRNN, lang=es, CPU)",7.567372500001511,"ibtø $ Ssauismos
+que  conigzan
+(a Sian ~aa
+CUn
+{c
+Samfia -
+Ouetpotf Unnhingr
+Ood 0 2sd Tu ,
+mil ochscienossctt ,
+44 4077 0
+hasto
+Yicnde Puua=
+4 
+šlo1.
+Mlanuul %
+Icní
+6),
+(c 4(8.3
+@/rd ,de/5% L",0.5955555555555555
